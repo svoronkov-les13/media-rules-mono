@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Client1 — детские книги, блогеры + digital
 ---
 
