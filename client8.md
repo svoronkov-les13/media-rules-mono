@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Client8 — программа лояльности, OLV/mobile/social
 ---
 
