@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="repo" href="{{ '/' | relative_url }}">media-rules-mono</a>
+      <nav class="nav">
+        <a href="{{ '/' | relative_url }}">Overview</a>
+        <a href="{{ '/matrix.html' | relative_url }}">Matrix</a>
+        <a href="https://github.com/svoronkov-les13/media-rules-mono">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container layout">
+    <aside class="sidebar">
+      <div class="sidebar-title">Pairs</div>
+      <a href="{{ '/client1.html' | relative_url }}">Client1</a>
+      <a href="{{ '/client2.html' | relative_url }}">Client2</a>
+      <a href="{{ '/client3.html' | relative_url }}">Client3</a>
+      <a href="{{ '/client4.html' | relative_url }}">Client4</a>
+      <a href="{{ '/client5.html' | relative_url }}">Client5</a>
+      <a href="{{ '/client6.html' | relative_url }}">Client6</a>
+      <a href="{{ '/client7.html' | relative_url }}">Client7</a>
+      <a href="{{ '/client8.html' | relative_url }}">Client8</a>
+      <a href="{{ '/client9.html' | relative_url }}">Client9</a>
+      <a href="{{ '/client10.html' | relative_url }}">Client10</a>
+    </aside>
+
+    <article class="markdown-body content">
+      {{ content }}
+    </article>
+  </main>
+</body>
+</html>
