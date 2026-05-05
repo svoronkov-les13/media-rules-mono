@@ -146,3 +146,17 @@ a:hover { text-decoration: underline; }
   .sidebar { border-right: 0; border-bottom: 1px solid var(--border-muted); padding: 0 0 12px 0; }
   .sidebar a { display: inline-block; margin-right: 12px; }
 }
+
+.page-meta {
+  margin: -8px 0 18px 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+.markdown-body table:first-of-type td:first-child {
+  white-space: nowrap;
+  font-weight: 600;
+  color: var(--fg);
+}
+.markdown-body h2 + table {
+  margin-top: -4px;
+}
