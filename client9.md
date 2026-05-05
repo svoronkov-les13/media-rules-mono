@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Client9 — PPTX, OLV/banner, device cap Smart TV
 ---
 
