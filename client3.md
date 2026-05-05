@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Client3 — бюджеты по объектам, контекст
 ---
 
