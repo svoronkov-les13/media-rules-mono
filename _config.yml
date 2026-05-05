@@ -1,4 +1,10 @@
-title: Правила БРИФ → МЕДИАПЛАН
-description: Разбор пар брифов и медиапланов для MVP автоматизации digital-медиапланирования
-theme: jekyll-theme-cayman
+title: БРИФ → МЕДИАПЛАН
+description: Правила сопоставления брифов и медиапланов
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - tmp
