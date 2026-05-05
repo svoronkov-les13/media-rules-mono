@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Client5 — банковская карта, Яндекс/VK/семантика
 ---
 
