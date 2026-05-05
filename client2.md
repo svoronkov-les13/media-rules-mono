@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Client2 — HR-вакансия кассира в VK
 ---
 
