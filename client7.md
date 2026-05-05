@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Client7 — импортные товары в доставке, 360 + digital + блогеры
 ---
 
