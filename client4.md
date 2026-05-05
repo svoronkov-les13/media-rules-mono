@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Client4 — франшиза/кредит, performance на заявку
 ---
 
