@@ -9,7 +9,8 @@ title: Разбор БРИФ → МЕДИАПЛАН
 
 Минимальный продукт: ассистент медиапланера. Он разбирает бриф, проверяет вводные, выбирает сценарий/шаблон, предлагает площадки и сплит, считает прогнозы и формирует Excel-черновик. Финальное решение остаётся за специалистом.
 
-[Скачать редактируемый DOCX-файл](exports/media-rules-export.docx)
+[Скачать редактируемый DOCX-файл](exports/media-rules-export.docx)  
+[Открыть Google Doc](https://docs.google.com/document/d/15gQuLPGD3w1HbEch2DSEN9Rc8ySMzIHcO5ckn7ykwuc/edit)
 
 ## Пары
 
